@@ -1,4 +1,4 @@
-Name: My GitHub Actions Workflow
+name: My GitHub Actions Workflow
 on: [push]
 
 jobs:
